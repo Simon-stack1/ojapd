@@ -21,7 +21,7 @@ function keyPressed() {
 	switch(keyCode) {
 		case 37:
 		case 65:
-			xspeed = -2;
+			xspeed = -9;
 			break;
 		case 39:
 		case 68:
